@@ -1,22 +1,42 @@
 {
-  "name": "ms-ai-tools-pack",
-  "displayName": "Microsoft AI Tools Extension Pack",
-  "description": "",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.99.0"
-  },
-  "repository": {
-    "url": "https://github.com/microsoft/vscode-ai-pack"
-  },
-  "categories": [
-    "Extension Packs"
-  ],
-  "extensionPack": [
-    "ms-windows-ai-studio.windows-ai-studio",
-    "TeamsDevApp.vscode-ai-foundry",
-    "GitHub.copilot",
-    "ms-azuretools.vscode-azure-github-copilot",
-    "ms-toolsai.datawrangler"
-  ]
+    "name": "microsoft-ai-tools-pack",
+    "displayName": "Microsoft AI Tools Extension Pack",
+    "description": "A curated set of essential extensions for building generative AI applications and agents in Visual Studio Code.",
+    "version": "0.0.1",
+    "publisher": "ms-toolsai",
+    "license": "MIT",
+    "icon": "Market_DataScience_128.png",
+    "homepage": "https://github.com/microsoft/vscode-ai-pack/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/microsoft/vscode-ai-pack/"
+    },
+    "bugs": {
+        "url": "https://github.com/microsoft/vscode-ai-pack/issues"
+    },
+    "engines": {
+        "vscode": "^1.88.0"
+    },
+    "categories": [
+        "Extension Packs",
+        "AI",
+        "Azure",
+        "Machine Learning",
+        "Data Science"
+    ],
+    "keywords": [
+        "AI",
+        "generative AI",
+        "data wrangling",
+        "data cleaning",
+        "copilot",
+        "Azure"
+    ],
+    "extensionPack": [ 
+        "ms-windows-ai-studio.windows-ai-studio",
+        "TeamsDevApp.vscode-ai-foundry",
+        "GitHub.copilot",
+        "ms-azuretools.vscode-azure-github-copilot",
+        "ms-toolsai.datawrangler"
+    ]
 }
