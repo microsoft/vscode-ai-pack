@@ -5,7 +5,7 @@
     "version": "0.0.1",
     "publisher": "ms-windows-ai-studio",
     "license": "MIT",
-    "icon": "Market_DataScience_128.png",
+    "icon": "",
     "homepage": "https://github.com/microsoft/vscode-ai-pack/",
     "repository": {
         "type": "git",
