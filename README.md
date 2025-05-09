@@ -5,8 +5,8 @@ The **Microsoft AI Tools Extension Pack** is a curated set of essential extensio
 
 ## Included Extensions
 
-- [AI Toolkit](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.ai-toolkit): A comprehensive set of tools for exploring and creating AI agents with generative AI models.
-- [AI Foundry Extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.ai-foundry-extension): Provides AI model and agent management and deployment capabilities using the Azure AI Foundry service.
+- [AI Toolkit](https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio): A comprehensive set of tools for exploring and creating AI agents with generative AI models.
+- [AI Foundry Extension](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.vscode-ai-foundry): Provides AI model and agent management and deployment capabilities using the Azure AI Foundry service.
 - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot): AI peer programming tool that helps you write code faster and smarter.
 - [GitHub Copilot for Azure](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-github-copilot): Enhances GitHub Copilot with Azure-specific capabilities for cloud development.
 - [Data Wrangler](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler): Simplifies data preparation and transformation for machine learning workflows.

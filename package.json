@@ -3,7 +3,7 @@
     "displayName": "Microsoft AI Tools Extension Pack",
     "description": "A curated set of essential extensions for building generative AI applications and agents in Visual Studio Code.",
     "version": "0.0.1",
-    "publisher": "ms-toolsai",
+    "publisher": "ms-windows-ai-studio",
     "license": "MIT",
     "icon": "Market_DataScience_128.png",
     "homepage": "https://github.com/microsoft/vscode-ai-pack/",
