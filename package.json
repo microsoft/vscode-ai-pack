@@ -2,10 +2,12 @@
     "name": "microsoft-ai-tools-pack",
     "displayName": "Microsoft AI Tools Extension Pack",
     "description": "A curated set of essential extensions for building generative AI applications and agents in Visual Studio Code.",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "ms-windows-ai-studio",
     "license": "MIT",
-    "icon": "",
+    "icon": "icon.png",
+    "aiKey": "",
+    "preview": true,
     "homepage": "https://github.com/microsoft/vscode-ai-pack/",
     "repository": {
         "type": "git",
@@ -15,7 +17,7 @@
         "url": "https://github.com/microsoft/vscode-ai-pack/issues"
     },
     "engines": {
-        "vscode": "^1.88.0"
+        "vscode": "^1.98.0"
     },
     "categories": [
         "Extension Packs",
