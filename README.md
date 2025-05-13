@@ -1,7 +1,7 @@
 
 # Microsoft AI Tools Extension Pack
 
-The **Microsoft AI Tools Extension Pack** is a curated set of essential extensions for building generative AI applications and agents in Visual Studio Code. This pack brings together powerful tools to accelerate your workflow—from exploring models and developing intelligent agents to deploying them and transforming data—all with the support of intelligent code assistance.
+The **Microsoft AI Tools Extension Pack** is a curated set of essential extensions for building generative AI applications and agents in Visual Studio Code. This pack brings together powerful tools to accelerate your workflow - from exploring models and transforming data to developing intelligent agents locally to deploying them to Azure - all with the support of intelligent code assistance.
 
 ## Included Extensions
 
@@ -20,7 +20,7 @@ The **Microsoft AI Tools Extension Pack** is a curated set of essential extensio
 
 ## Providing Feedback
 
-If you encounter any issues or have suggestions for improvements, please visit our [GitHub Issues](https://github.com/your-repo/issues) page.
+If you encounter any issues or have suggestions for improvements, please visit our [GitHub Issues](https://github.com/microsoft/vscode-ai-pack/issues) page.
 
 ## Contributing
 
