@@ -1,26 +1,21 @@
 
 # Microsoft AI Tools Extension Pack
 
-The **Microsoft AI Tools Extension Pack** is a curated set of essential extensions for building generative AI applications and agents in Visual Studio Code. This pack brings together powerful tools to accelerate your workflow—from exploring models and developing intelligent agents to deploying them and transforming data—all with the support of intelligent code assistance.
+The **Microsoft AI Tools Extension Pack** is a curated set of essential extensions for building generative AI applications and agents in Visual Studio Code. This pack brings together powerful tools to accelerate your workflow - from exploring models and transforming data to developing intelligent agents locally to deploying them to Azure - all with the support of intelligent code assistance.
 
 ## Included Extensions
 
-- [AI Toolkit](https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio): A comprehensive set of tools for exploring and creating AI agents with generative AI models.
-- [AI Foundry Extension](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.vscode-ai-foundry): Provides AI model and agent management and deployment capabilities using the Azure AI Foundry service.
+- [AI Toolkit](https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio): A comprehensive set of tools for exploring and creating AI agents with local and remote generative AI models.
+- [Azure AI Foundry](https://marketplace.visualstudio.com/items?itemName=TeamsDevApp.vscode-ai-foundry): Provides AI model and agent management and deployment capabilities using the Azure AI Foundry service.
 - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot): AI peer programming tool that helps you write code faster and smarter.
 - [GitHub Copilot for Azure](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-github-copilot): Enhances GitHub Copilot with Azure-specific capabilities for cloud development.
-- [Data Wrangler](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler): Simplifies data preparation and transformation for machine learning workflows.
+- [Data Wrangler](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler): Simplifies data preparation and transformation for AI development and machine learning workflows.
 
-## Getting Started
 
-1. Open Visual Studio Code.
-2. Go to the Extensions view (`Ctrl+Shift+X`).
-3. Search for **Microsoft AI Tools Extension Pack**.
-4. Click **Install**.
 
 ## Providing Feedback
 
-If you encounter any issues or have suggestions for improvements, please visit our [GitHub Issues](https://github.com/your-repo/issues) page.
+If you encounter any issues or have suggestions for improvements, please visit our [GitHub Issues](https://github.com/microsoft/vscode-ai-pack/issues) page.
 
 ## Contributing
 
