@@ -37,7 +37,7 @@
     "extensionPack": [ 
         "ms-windows-ai-studio.windows-ai-studio",
         "TeamsDevApp.vscode-ai-foundry",
-        "GitHub.copilot",
+        "GitHub.copilot-chat",
         "ms-azuretools.vscode-azure-github-copilot",
         "ms-toolsai.datawrangler"
     ]
